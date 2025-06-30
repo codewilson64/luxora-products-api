@@ -261,5 +261,77 @@
     "colour": "Chalk",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/whitney-chalk.webp"
+  },
+  {
+    "id": 30,
+    "name": "Rayne Slingback - Chalk",
+    "category": "slingback",
+    "price": "98.00",
+    "colour": "Chalk",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/rayne-chalk.webp"
+  },
+  {
+    "id": 31,
+    "name": "Rayne Slingback - Black",
+    "category": "slingback",
+    "price": "98.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/rayne-black.webp"
+  },
+  {
+    "id": 32,
+    "name": "Rayne Slingback - Cognac",
+    "category": "slingback",
+    "price": "98.00",
+    "colour": "Cognac",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/rayne-cognac.webp"
+  },
+  {
+    "id": 33,
+    "name": "Double Buckle-Strap Slingback - Black",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/double-buckle-strap-black.webp"
+  },
+  {
+    "id": 34,
+    "name": "Double Buckle-Strap Slingback - Brown",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/double-buckle-strap-brown.webp"
+  },
+  {
+    "id": 35,
+    "name": "Double Buckle-Strap Slingback - Cream",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/double-buckle-strap-cream.webp"
+  },
+  {
+    "id": 36,
+    "name": "Wynn Slingback - Black",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/wynn-black.webp"
+  },
+  {
+    "id": 37,
+    "name": "Wynn Slingback - White",
+    "category": "slingback",
+    "price": "120.00",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/wynn-white.webp"
   }
 ]
