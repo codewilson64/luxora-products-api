@@ -27,5 +27,59 @@
     "colour": "Black",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/noirblackbag.webp"
+  },
+  {
+    "id": 4,
+    "name": "Beryl Tote Bag - Taupe",
+    "category": "bag",
+    "price": "75.50",
+    "colour": "Taupe",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/beryl-taupe.webp"
+  },
+  {
+    "id": 5,
+    "name": "Alva Tote Bag - Black",
+    "category": "bag",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/alva-black.webp"
+  },
+  {
+    "id": 6,
+    "name": "Klio Tote Bag - Cream",
+    "category": "bag",
+    "price": "125.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/klio-cream.webp"
+  },
+  {
+    "id": 7,
+    "name": "Klio Tote Bag - Noir",
+    "category": "bag",
+    "price": "75.50",
+    "colour": "Noir",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/klio-noir.webp"
+  },
+  {
+    "id": 8,
+    "name": "Noah Tote Bag - Clear",
+    "category": "bag",
+    "price": "100.00",
+    "colour": "Clear",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/noah-clear.webp"
+  },
+  {
+    "id": 9,
+    "name": "Noah Tote Bag - Pink",
+    "category": "bag",
+    "price": "120.00",
+    "colour": "Pink",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/noah-pink.webp"
   }
 ]
