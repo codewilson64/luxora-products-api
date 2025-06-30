@@ -189,5 +189,77 @@
     "colour": "Chalk",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/suede-chalk.webp"
+  },
+  {
+    "id": 22,
+    "name": "Ankle-Strap - Black",
+    "category": "heels",
+    "price": "135.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/ankle-strap-black.webp"
+  },
+  {
+    "id": 23,
+    "name": "Ankle-Strap - Brown",
+    "category": "heels",
+    "price": "135.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/ankle-strap-brown.webp"
+  },
+  {
+    "id": 24,
+    "name": "Ankle-Strap - White",
+    "category": "heels",
+    "price": "135.00",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/ankle-strap-white.webp"
+  },
+  {
+    "id": 25,
+    "name": "Easley - Caramel",
+    "category": "heels",
+    "price": "99.00",
+    "colour": "Caramel",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/easley-caramel.webp"
+  },
+  {
+    "id": 26,
+    "name": "Easley - Black",
+    "category": "heels",
+    "price": "99.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/easley-heels-black.webp"
+  },
+  {
+    "id": 27,
+    "name": "Leather Square-Toe - Black",
+    "category": "heels",
+    "price": "150.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/square-toe-black.webp"
+  },
+  {
+    "id": 28,
+    "name": "Whitney - Brown",
+    "category": "heels",
+    "price": "90.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/whitney-brown.webp"
+  },
+  {
+    "id": 29,
+    "name": "Whitney - Chalk",
+    "category": "heels",
+    "price": "90.00",
+    "colour": "Chalk",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/whitney-chalk.webp"
   }
 ]
