@@ -333,5 +333,77 @@
     "colour": "White",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/wynn-white.webp"
+  },
+  {
+    "id": 38,
+    "name": "Alva Top Handle Bag - Cream",
+    "category": "top handle bag",
+    "price": "130.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/alva-cream.webp"
+  },
+  {
+    "id": 39,
+    "name": "Alva Top Handle Bag - Black",
+    "category": "top handle bag",
+    "price": "130.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/alva-black.webp"
+  },
+  {
+    "id": 40,
+    "name": "Alva Top Handle Bag - Silver",
+    "category": "top handle bag",
+    "price": "120.00",
+    "colour": "Silver",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/alva-silver.webp"
+  },
+  {
+    "id": 41,
+    "name": "Lennie Top Handle Bag - Cream",
+    "category": "top handle bag",
+    "price": "120.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/lennie-cream.webp"
+  },
+  {
+    "id": 42,
+    "name": "Lennie Top Handle Bag - Black",
+    "category": "top handle bag",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/lennie-black.webp"
+  },
+  {
+    "id": 43,
+    "name": "Satin Top Handle Bag - Black",
+    "category": "top handle bag",
+    "price": "115.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/satin-black.webp"
+  },
+  {
+    "id": 44,
+    "name": "Arwen Top Handle Bag - Tartan",
+    "category": "top handle bag",
+    "price": "120.00",
+    "colour": "Tartan",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/arwen-tartan.webp"
+  },
+  {
+    "id": 45,
+    "name": "Arwen Top Handle Bag - Burgundy",
+    "category": "top handle bag",
+    "price": "100.00",
+    "colour": "Burgundy",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/arwen-burgundy.webp"
   }
 ]
