@@ -405,5 +405,41 @@
     "colour": "Burgundy",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/arwen-burgundy.webp"
+  },
+  {
+    "id": 46,
+    "name": "Aura Sunglasses - Black",
+    "category": "sunglasses",
+    "price": "100.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/aura-black.webp"
+  },
+  {
+    "id": 47,
+    "name": "Brea Sunglasses - Black",
+    "category": "sunglasses",
+    "price": "100.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/brea-black.webp"
+  },
+  {
+    "id": 48,
+    "name": "Brea Sunglasses - Blue",
+    "category": "sunglasses",
+    "price": "100.00",
+    "colour": "Blue",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/brea-blue.webp"
+  },
+  {
+    "id": 49,
+    "name": "Brea Sunglasses - Grey",
+    "category": "sunglasses",
+    "price": "100.00",
+    "colour": "Grey",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/brea-grey.webp"
   }
 ]
