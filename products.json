@@ -81,5 +81,113 @@
     "colour": "Pink",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/noah-pink.webp"
+  },
+  {
+    "id": 10,
+    "name": "Easley Sandals - White",
+    "category": "sandals",
+    "price": "90.00",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/easley-white.webp"
+  },
+  {
+    "id": 11,
+    "name": "Easley Sandals - Toffee",
+    "category": "sandals",
+    "price": "90.00",
+    "colour": "Toffee",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/easley-toffee.webp"
+  },
+  {
+    "id": 12,
+    "name": "Easley Sandals - Black",
+    "category": "sandals",
+    "price": "90.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/easley-black.webp"
+  },
+  {
+    "id": 13,
+    "name": "Easley Croc Sandals - Black",
+    "category": "sandals",
+    "price": "90.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/easley croc-black.webp"
+  },
+  {
+    "id": 14,
+    "name": "Fannie Sandals - Black",
+    "category": "sandals",
+    "price": "120.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/fannie-black.webp"
+  },
+  {
+    "id": 15,
+    "name": "Fannie Sandals - Brown",
+    "category": "sandals",
+    "price": "110.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/fannie-brown.webp"
+  },
+  {
+    "id": 16,
+    "name": "Fannie Sandals - Cream",
+    "category": "sandals",
+    "price": "110.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/fannie-cream.webp"
+  },
+  {
+    "id": 17,
+    "name": "Fannie Sandals - Dark Brown",
+    "category": "sandals",
+    "price": "110.00",
+    "colour": "Brown",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/fannie-darkbrown.webp"
+  },
+  {
+    "id": 18,
+    "name": "Nadine Sandals - Black",
+    "category": "sandals",
+    "price": "80.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/nadine-black.webp"
+  },
+  {
+    "id": 19,
+    "name": "Nadine Sandals - White",
+    "category": "sandals",
+    "price": "80.00",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/nadine-white.webp"
+  },
+  {
+    "id": 20,
+    "name": "Suede Sandals - Black",
+    "category": "sandals",
+    "price": "95.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/suede-black.webp"
+  },
+  {
+    "id": 21,
+    "name": "Suede Sandals - Chalk",
+    "category": "sandals",
+    "price": "95.00",
+    "colour": "Chalk",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/suede-chalk.webp"
   }
 ]
