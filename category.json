@@ -3,36 +3,36 @@
     "id": 1,
     "name": "BAGS",
     "category": "bag",
-    "image": "../src/assets/bags.webp"
+    "image": "https://codewilson64.github.io/luxora-products-api/images/bags.webp"
   },
   {
     "id": 2,
     "name": "FLATS",
     "category": "sandals",
-    "image": "../src/assets/maryjanes.webp"
+    "image": "https://codewilson64.github.io/luxora-products-api/images/maryjanes.webp"
   },
   {
     "id": 3,
     "name": "HEELS",
     "category": "heels",
-    "image": "../src/assets/heels/ankle-strap-white.webp"
+    "image": "https://codewilson64.github.io/luxora-products-api/images/heels.webp"
   },
   {
     "id": 4,
     "name": "SLINGBACKS",
     "category": "slingback",
-    "image": "../src/assets/slingbacks.webp"
+    "image": "https://codewilson64.github.io/luxora-products-api/images/slingbacks.webp"
   },
   {
     "id": 5,
     "name": "TOP HANDLE BAGS",
     "category": "top handle bag",
-    "image": "../src/assets/tophandlebags.jpg"
+    "image": "https://codewilson64.github.io/luxora-products-api/images/tophandlebags.jpg"
   },
   {
     "id": 6,
     "name": "SUNGLASSES",
     "category": "sunglasses",
-    "image": "../src/assets/sunglasses.webp"
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sunglasses.webp"
   }
 ]
