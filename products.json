@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Addison Tote Bag - Black",
+    "category": "bag",
+    "price": "95.50",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/noirblackbag.webp"
+  }
+]
