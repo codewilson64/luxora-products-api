@@ -6,6 +6,25 @@
     "price": "95.50",
     "colour": "Black",
     "size": "L",
+    "description": "Swap out your usual canvas tote for the Addison bag -- featuring a hanging chain strap intertwined with knotted rope, it will bring an elevated, nautical-inspired touch to your warm-weather outfits. It opens up to reveal a roomy interior that can fit everything you need for the day and more, complete with a magnetic closure to keep your essentials secure yet easily accessible.",
     "image": "https://codewilson64.github.io/luxora-products-api/images/noirblackbag.webp"
-  }
-]
+  },
+  {
+    "id": 2,
+    "name": "Addison Tote Bag - Taupe",
+    "category": "bag",
+    "price": "95.50",
+    "colour": "Taupe",
+    "size": "L",
+    "description": "This Addison canvas tote bag is big on functionality. With a roomy main compartment along with multiple front and side pockets, this bag ample room for all your essentials and more -- both inside and outside your bag. It also comes with a detachable chain-knot strap for added style points.",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/noirblackbag.webp"
+  },
+  {
+    "id": 3,
+    "name": "Beryl Tote Bag - Black",
+    "category": "bag",
+    "price": "85.50",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/noirblackbag.webp"
+  },
