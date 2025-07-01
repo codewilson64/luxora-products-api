@@ -657,5 +657,77 @@
     "colour": "Cream",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/pouch-cream.webp"
+  },
+  {
+    "id": 74,
+    "name": "Kristine Wallet - Silver",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Silver",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/wallet-silver.webp"
+  },
+  {
+    "id": 75,
+    "name": "Kristine Wallet - Noir",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Noir",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/wallet-noir.webp"
+  },     
+  {
+    "id": 76,
+    "name": "Stiletto Heel - White",
+    "category": "party",
+    "price": "69.90",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/heel-white.webp"
+  },
+  {
+    "id": 76,
+    "name": "Stiletto Heel - Mauve",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Mauve",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/heel-mauve.webp"
+  },
+  {
+    "id": 77,
+    "name": "Stiletto Heel - Gold",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Gold",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/heel-gold.webp"
+  },
+  {
+    "id": 78,
+    "name": "Stiletto Heel - Black",
+    "category": "party",
+    "price": "69.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/heel-black.webp"
+  },
+  {
+    "id": 79,
+    "name": "Kadee Bag - Cream",
+    "category": "party",
+    "price": "85.90",
+    "colour": "Cream",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/bag-cream.webp"
+  },
+  {
+    "id": 80,
+    "name": "Kadee Bag - Pink",
+    "category": "party",
+    "price": "85.90",
+    "colour": "Pink",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/bag-pink.webp"
   }
 ]
