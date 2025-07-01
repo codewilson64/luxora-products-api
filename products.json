@@ -513,5 +513,77 @@
     "colour": "Multi",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/cherrybearcharm-multi.webp"
+  },
+  {
+    "id": 58,
+    "name": "Sansa Tote Bag - Taupe",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Taupe",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sansa-taupe.webp"
+  },
+  {
+    "id": 59,
+    "name": "Sansa Tote Bag - Plum",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Plum",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sansa-plum.webp"
+  },
+  {
+    "id": 60,
+    "name": "Sansa Tote Bag - Chocolate",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Chocolate",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sansa-chocolate.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Sansa Tote Bag - Dark Moss",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Dark Moss",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sansa-darkmoss.webp"
+  },
+  {
+    "id": 62,
+    "name": "Sansa Tote Bag - Noir",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Noir",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sansa-noir.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Harper Top Handle Bag - White",
+    "category": "9to5",
+    "price": "85.00",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/harper-white.webp"
+  },
+  {
+    "id": 64,
+    "name": "Harper Top Handle Bag - Taupe",
+    "category": "9to5",
+    "price": "85.00",
+    "colour": "Taupe",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/harper-taupe.webp"
+  },
+  {
+    "id": 65,
+    "name": "Harper Top Handle Bag - Black",
+    "category": "9to5",
+    "price": "105.00",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/harper-black.webp"
   }
 ]
