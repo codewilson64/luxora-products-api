@@ -729,5 +729,77 @@
     "colour": "Pink",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/bag-pink.webp"
+  },
+  {
+    "id": 81,
+    "name": "Backpack - Grey",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Grey",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/backpack-grey.webp"
+  },
+  {
+    "id": 82,
+    "name": "Backpack - Noir",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Noir",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/backpack-noir.webp"
+  },
+  {
+    "id": 83,
+    "name": "Backpack - Cream",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Cream",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/backpack-cream.webp"
+  },
+  {
+    "id": 84,
+    "name": "Backpack - Dark Brown",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Brown",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/backpack-brown.webp"
+  },
+  {
+    "id": 85,
+    "name": "Bryna Backpack - Black",
+    "category": "campus",
+    "price": "89.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/bryna-black.webp"
+  },
+  {
+    "id": 86,
+    "name": "Sneakers - White",
+    "category": "campus",
+    "price": "75.90",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sneakers-white.webp"
+  },
+  {
+    "id": 87,
+    "name": "Sneakers - Pink",
+    "category": "campus",
+    "price": "75.90",
+    "colour": "Pink",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sneakers-pink.webp"
+  },
+  {
+    "id": 88,
+    "name": "Sneakers - Silver",
+    "category": "campus",
+    "price": "75.90",
+    "colour": "Silver",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/sneakers-silver.webp"
   }
 ]
