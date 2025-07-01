@@ -801,5 +801,77 @@
     "colour": "Silver",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/sneakers-silver.webp"
-  }
+  },
+  {
+    "id": 89,
+    "name": "Slingback Pumps - Burgundy",
+    "category": "trend",
+    "price": "65.90",
+    "colour": "Burgundy",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/slingback-burgundy.webp"
+  },
+  {
+    "id": 90,
+    "name": "Slingback Pumps - Red",
+    "category": "trend",
+    "price": "65.90",
+    "colour": "Red",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/slingback-red.webp"
+  },
+  {
+    "id": 91,
+    "name": "Slingback Pumps - Black",
+    "category": "trend",
+    "price": "65.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/slingback-black.webp"
+  },
+  {
+    "id": 92,
+    "name": "Patent Bow Slingback Pumps - Burgundy",
+    "category": "trend",
+    "price": "65.90",
+    "colour": "Burgundy",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/slingback-blackpatent.webp"
+  },
+  {
+    "id": 93,
+    "name": "Kitten-Heel - Black",
+    "category": "trend",
+    "price": "60.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/kitten-heel-black.webp"
+  },
+  {
+    "id": 94,
+    "name": "Rayne Kitten-Heel - Black",
+    "category": "trend",
+    "price": "60.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/kitten-heel2-black.webp"
+  },
+  {
+    "id": 95,
+    "name": "Slingback Flats - Black Textured",
+    "category": "trend",
+    "price": "60.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/slingback-blacktexture.webp"
+  },
+  {
+    "id": 96,
+    "name": "Stiletto-Heel - Black Textured",
+    "category": "trend",
+    "price": "60.90",
+    "colour": "Black",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/heel-blacktexture.webp"
+  }        
 ]
