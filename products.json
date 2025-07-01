@@ -585,5 +585,77 @@
     "colour": "Black",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/harper-black.webp"
+  },
+  {
+    "id": 66,
+    "name": "Shalia Basket Bag - Pink",
+    "category": "gift",
+    "price": "120.00",
+    "colour": "Pink",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/shalia-pink.webp"
+  },
+  {
+    "id": 67,
+    "name": "Cherry Charm - Red",
+    "category": "gift",
+    "price": "23.00",
+    "colour": "Red",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/cherry-red.webp"
+  },
+  {
+    "id": 68,
+    "name": "Raffia Bowling Bag - Neutral Raffia",
+    "category": "gift",
+    "price": "99.00",
+    "colour": "Neutral",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/raffiabag.webp"
+  },
+  {
+    "id": 69,
+    "name": "Pineapple Charm - Yellow",
+    "category": "gift",
+    "price": "25.00",
+    "colour": "Yellow",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/pineapple-yellow.webp"
+  },
+  {
+    "id": 70,
+    "name": "Ladybug Charm - Red",
+    "category": "gift",
+    "price": "25.00",
+    "colour": "Red",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/ladybug-red.webp"
+  },
+  {
+    "id": 71,
+    "name": "Everleigh Wallet - Pink",
+    "category": "gift",
+    "price": "33.90",
+    "colour": "Pink",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/wallet-pink.webp"
+  },
+  {
+    "id": 72,
+    "name": "Gabine Swarovski Necklace - Gold",
+    "category": "gift",
+    "price": "50.00",
+    "colour": "Gold",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/necklace-gold.webp"
+  },
+  {
+    "id": 73,
+    "name": "Apfra Pouch - Cream",
+    "category": "gift",
+    "price": "40.00",
+    "colour": "Cream",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/pouch-cream.webp"
   }
 ]
