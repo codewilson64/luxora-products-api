@@ -441,5 +441,77 @@
     "colour": "Grey",
     "size": "L",
     "image": "https://codewilson64.github.io/luxora-products-api/images/brea-grey.webp"
+  },
+  {
+    "id": 50,
+    "name": "Bunny Charm - White",
+    "category": "charm",
+    "price": "10.00",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/bunnycharm-white.webp"
+  },
+  {
+    "id": 51,
+    "name": "Cherry Charm - Red",
+    "category": "charm",
+    "price": "20.00",
+    "colour": "Red",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/cherycharm-red.webp"
+  },
+  {
+    "id": 52,
+    "name": "Swing Ring Charm - Blue",
+    "category": "charm",
+    "price": "20.00",
+    "colour": "Blue",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/swingcharm-blue.webp"
+  },
+  {
+    "id": 53,
+    "name": "Heart Charm - Bubble Gum Pink",
+    "category": "charm",
+    "price": "15.00",
+    "colour": "Pink",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/heartcharm-pink.webp"
+  },
+  {
+    "id": 54,
+    "name": "Panda Charm - White",
+    "category": "charm",
+    "price": "15.00",
+    "colour": "White",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/pandacharm-white.webp"
+  },
+  {
+    "id": 55,
+    "name": "Strawberry Charm - Multi",
+    "category": "charm",
+    "price": "99.90",
+    "colour": "Multi",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/strawberrycharm-multi.webp"
+  }, 
+  {
+    "id": 56,
+    "name": "Grape Charm - Multi",
+    "category": "charm",
+    "price": "99.90",
+    "colour": "Multi",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/grapecharm-multi.webp"
+  }, 
+  {
+    "id": 57,
+    "name": "Cherry Bear Charm - Multi",
+    "category": "charm",
+    "price": "99.90",
+    "colour": "Multi",
+    "size": "L",
+    "image": "https://codewilson64.github.io/luxora-products-api/images/cherrybearcharm-multi.webp"
   }
 ]
